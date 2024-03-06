@@ -10,9 +10,9 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: GoldfishZ's Website
   # Author name
-  author: The Redefine Team
+  author: Zhang Runjin
   # Site URL
   url: https://redefine.ohevan.com
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -166,6 +166,7 @@ home_banner:
 # NAVIGATION BAR >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 # Docs: https://redefine-docs.ohevan.com/home/navbar
 navbar:
+  blog title: GoldfishZ's Homepage
   # Auto hide navbar
   auto_hide: false
   # Navbar background color
