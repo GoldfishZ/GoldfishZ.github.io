@@ -6,6 +6,15 @@ Welcome to GoldfishZ's homepage! This is an introduction about me that covers so
 
 ## Basic Information
 
-:bust_in_silhouette: 张润今（Zhang Runjin）                                        :birthday: 2002.11
-:male_sign: Male                                                          :telephone: 18320878083
-:email: 2366385033@qq.com                                          :octocat: https://github.com/GoldfishZ
+Name: 张润今（Zhang Runjin）                                        Birthday: 2002.11
+
+Gender: Male                                                                    Telephone: 18320878083
+
+email: 2366385033@qq.com                                         Github: https://github.com/GoldfishZ
+
+Department: Department of Computer Science & Technology
+
+Major: Computer Science & Technology
+
+Education: Undergraduate, Zhejiang University	    GPA: 3.86/4(86.2/100)
+
