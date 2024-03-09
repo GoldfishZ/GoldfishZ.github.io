@@ -6,24 +6,31 @@ title: About Me
 
 ## Basic Information
 
-**Name**: 张润今（Zhang Runjin）  
-**Birthday**: 2002.11
+![Name Icon](../../../images/icons/user-solid.svg)**Name**: 张润今（Zhang Runjin）
 
-**Gender**: Male  
-**Telephone**: 18320878083
+![Birthday Icon](../../../images/icons/cake-candles-solid.svg)**Birthday**: 2002.11
 
-**email**: 2366385033@qq.com  
-**Github**: https://github.com/GoldfishZ
+![Gender Icon](../../../images/icons/mars-solid.svg)**Gender**: Male
 
-**Department**: Department of Computer Science & Technology
-**Major**: Computer Science & Technology
+![Telephone Icon](../../../images/icons/phone-solid.svg)**Telephone**: 18320878083
 
-**Hometown**: Meizhou,Guangdong
-**Birthplace**: Shenzhen,Guangdong
+![Email Icon](../../../images/icons/envelope-solid.svg)**Email**: 2366385033@qq.com
 
-**Education**: Undergraduate, Zhejiang University
-**GPA**: 3.86/4(86.2/100)
-**ILTES**: 7.0(8.0/7.5/6.5/6.5)
+![Github Icon](../../../images/icons/github.svg)**Github**: https://github.com/GoldfishZ
+
+![Department Icon](../../../images/icons/school-solid.svg)**Department**: Department of Computer Science & Technology
+
+![Major Icon](../../../images/icons/book-open-solid.svg)**Major**: Computer Science & Technology
+
+![Birthplace Icon](../../../images/icons/house-solid.svg)**Hometown**: Meizhou,Guangdong
+
+![Hometown Icon](../../../images/icons/house-chimney-solid.svg)**Birthplace**: Shenzhen,Guangdong
+
+![Edu Icon](../../../images/icons/user-graduate-solid.svg)**Education**: Undergraduate, Zhejiang University
+
+![GPA Icon](../../../images/icons/graduation-cap-solid.svg)**GPA**: 3.86/4(86.2/100)
+
+![Language Icon](../../../images/icons/language-solid.svg)**ILTES**: 7.0(8.0/7.5/6.5/6.5)
 
 ## Projects
 
@@ -97,6 +104,11 @@ The goal of this project is to complete a small database similar to mysql, which
 ## Publications
 
 **Still in progress**
+
+## Awards
+
+- ![Award Icon](../../../images/icons/award-solid.svg)**Zhejiang University Scholarship-Third Prize**
+- ![Award Icon](../../../images/icons/award-solid.svg)**Academic Excellence Award**
 
 ## Hobbies
 

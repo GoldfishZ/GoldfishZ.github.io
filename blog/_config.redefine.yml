@@ -21,11 +21,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/YuanBao1.svg
+  favicon: ../images/YuanBao1.svg
   # Site logo
   logo:
   # Site avatar
-  avatar: /images/YuanBao2.svg
+  avatar: ../images/YuanBao2.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
