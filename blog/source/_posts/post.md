@@ -31,23 +31,72 @@ title: About Me
 
 ### IOT device manage system
 
+**Solo Work**
+
 This IoT information management platform is an extremely wide-ranging project. In this project, we were asked to complete a complete IoT information management system, including front-end, back-end, front-end and back-end connections and server subscription.
 
 #### Technology stack usage
 
 - Front-end: Based on React, using javascript as programming language
 - Back-end: Based on Java Springboot, use JDBC to connect to the database(mysql).
-- Front-end & Back-end Connection: Via
-  Cross-Domain
+- Front-end & Back-end Connection: Via Cross-Domain
 - Server: The open source server mosquitto was used, and a subscription side was implemented in python to bind the port
+
+#### Highlights
+
+- The whole project is implemented based on B/S architecture
+- The scope of coverage is extremely broad, and the entire project needs to be covered from front-end and back-end to servers and other content
 
 ### Football Tactic Visualization
 
+**Group Work.Complete in a group of two**
+This is a data visualisation project that aims to look at the tactics used in all Premier League teams' matches during the 2017-18 season as a way of exploring the different styles of play of different teams.
+
+#### Technology Stack Usage
+
+- Front-end: Based on React, using javascript as programming language
+- Back-end: Using python
+
+#### Highlights
+
+- This project is a laboratory project that participated in the VIS group of Zhejiang University, and the work was completed under the guidance of the engineering
+- Referenced paper《Automatic discovery of tactics in spatio-temporal soccer match data》,The algorithm is reproduced.
+- A variety of different data representations are used in the front-end, and a variety of visualization elements are represented in a detailed and comprehensive manner.
+
 ### Tetris
+
+**Group Work.Complete in a group of three**
+This is an implementation of the classic game Tetris. As a relatively short-term project, this project is designed to be used by users by designing a more aesthetically pleasing UI.
+
+#### Technology Stack Usage
+
+- Language: C++
+- Tools: Qt Creator
+
+#### Highlights
+
+- The whole project is based on the MVVM architecture, which is divided into the Model layer, the View layer and the ViewModel layer
+- The whole project strictly uses git synchronization and integration, and synchronization is carried out on gitlab
 
 ### Minisql
 
+**Group Work.Complete in a group of three**
+The goal of this project is to complete a small database similar to mysql, which allows users to input statements that conform to SQL syntax specifications through the character interface, and realizes the functions of data insertion, query, update and deletion of the database, creation and modification of database schemas, and data access control. MiniSQL implements data definition, data manipulation, data control, and data abstraction functions of the database.
+
+#### Techonlogy Stack Usage
+
+- Language: C++
+- Environment: Linux
+- Development Approach: Vscode + WSL
+
+#### Highlights
+
+- Use github for synchronous development
+- The engineering framework is rewritten with reference to the CMU-15445 BusTub framework, which is relatively mature
+
 ## Publications
+
+**Still in progress**
 
 ## Hobbies
 
