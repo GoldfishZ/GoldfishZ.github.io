@@ -23,9 +23,9 @@ defaults:
   # Favicon
   favicon: ../images/YuanBao1.svg
   # Site logo
-  logo:
+  logo: /images/YuanBao2.svg
   # Site avatar
-  avatar: ../images/YuanBao2.svg
+  avatar: /images/YuanBao2.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -151,11 +151,11 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github: # your GitHub URL
+      github: https://github.com/GoldfishZ # your GitHub URL
       instagram: # your Instagram URL
       zhihu: # your ZhiHu URL
       twitter: # your twitter URL
-      email: # your email
+      email: 2366385033@qq.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -168,7 +168,7 @@ home_banner:
 navbar:
   blog title: GoldfishZ's Homepage
   # Auto hide navbar
-  auto_hide: false
+  auto_hide: true
   # Navbar background color
   color:
     left: '#f78736' #left side

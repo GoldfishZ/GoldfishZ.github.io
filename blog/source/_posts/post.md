@@ -6,31 +6,31 @@ title: About Me
 
 ## Basic Information
 
-![Name Icon](../../../images/icons/user-solid.svg)**Name**: 张润今（Zhang Runjin）
+<i class="fas fa-user"></i> **Name**: 张润今（Zhang Runjin）
 
-![Birthday Icon](../../../images/icons/cake-candles-solid.svg)**Birthday**: 2002.11
+<i class="fas fa-birthday-cake"></i> **Birthday**: 2002.11
 
-![Gender Icon](../../../images/icons/mars-solid.svg)**Gender**: Male
+<i class="fas fa-mars"></i> **Gender**: Male
 
-![Telephone Icon](../../../images/icons/phone-solid.svg)**Telephone**: 18320878083
+<i class="fas fa-phone"></i> **Telephone**: 18320878083
 
-![Email Icon](../../../images/icons/envelope-solid.svg)**Email**: 2366385033@qq.com
+<i class="fas fa-envelope"></i> **Email**: 2366385033@qq.com
 
-![Github Icon](../../../images/icons/github.svg)**Github**: https://github.com/GoldfishZ
+<i class="fab fa-github"></i> **Github**: https://github.com/GoldfishZ
 
-![Department Icon](../../../images/icons/school-solid.svg)**Department**: Department of Computer Science & Technology
+<i class="fas fa-school"></i> **Department**: Department of Computer Science & Technology
 
-![Major Icon](../../../images/icons/book-open-solid.svg)**Major**: Computer Science & Technology
+<i class="fas fa-book-open"></i> **Major**: Computer Science & Technology
 
-![Birthplace Icon](../../../images/icons/house-solid.svg)**Hometown**: Meizhou,Guangdong
+<i class="fas fa-home"></i> **Hometown**: Meizhou,Guangdong
 
-![Hometown Icon](../../../images/icons/house-chimney-solid.svg)**Birthplace**: Shenzhen,Guangdong
+<i class="fas fa-home"></i> **Birthplace**: Shenzhen,Guangdong
 
-![Edu Icon](../../../images/icons/user-graduate-solid.svg)**Education**: Undergraduate, Zhejiang University
+<i class="fas fa-user-graduate"></i> **Education**: Undergraduate, Zhejiang University
 
-![GPA Icon](../../../images/icons/graduation-cap-solid.svg)**GPA**: 3.86/4(86.2/100)
+<i class="fas fa-graduation-cap"></i> **GPA**: 3.86/4(86.2/100)
 
-![Language Icon](../../../images/icons/language-solid.svg)**ILTES**: 7.0(8.0/7.5/6.5/6.5)
+<i class="fas fa-language"></i> **ILTES**: 7.0(8.0/7.5/6.5/6.5)
 
 ## Projects
 
@@ -39,6 +39,8 @@ title: About Me
 ### IOT device manage system
 
 **Solo Work**
+
+<i class="fas fa-calendar"></i> 2023-2024 winter
 
 This IoT information management platform is an extremely wide-ranging project. In this project, we were asked to complete a complete IoT information management system, including front-end, back-end, front-end and back-end connections and server subscription.
 
@@ -57,6 +59,9 @@ This IoT information management platform is an extremely wide-ranging project. I
 ### Football Tactic Visualization
 
 **Group Work.Complete in a group of two**
+
+<i class="fas fa-calendar"></i> 2023-2024 winter
+
 This is a data visualisation project that aims to look at the tactics used in all Premier League teams' matches during the 2017-18 season as a way of exploring the different styles of play of different teams.
 
 #### Technology Stack Usage
@@ -73,6 +78,9 @@ This is a data visualisation project that aims to look at the tactics used in al
 ### Tetris
 
 **Group Work.Complete in a group of three**
+
+<i class="fas fa-calendar"></i> 2023 summer
+
 This is an implementation of the classic game Tetris. As a relatively short-term project, this project is designed to be used by users by designing a more aesthetically pleasing UI.
 
 #### Technology Stack Usage
@@ -88,6 +96,9 @@ This is an implementation of the classic game Tetris. As a relatively short-term
 ### Minisql
 
 **Group Work.Complete in a group of three**
+
+<i class="fas fa-calendar"></i> 2023 summer
+
 The goal of this project is to complete a small database similar to mysql, which allows users to input statements that conform to SQL syntax specifications through the character interface, and realizes the functions of data insertion, query, update and deletion of the database, creation and modification of database schemas, and data access control. MiniSQL implements data definition, data manipulation, data control, and data abstraction functions of the database.
 
 #### Techonlogy Stack Usage
@@ -107,8 +118,8 @@ The goal of this project is to complete a small database similar to mysql, which
 
 ## Awards
 
-- ![Award Icon](../../../images/icons/award-solid.svg)**Zhejiang University Scholarship-Third Prize**
-- ![Award Icon](../../../images/icons/award-solid.svg)**Academic Excellence Award**
+- <i class="fas fa-award"></i> **Zhejiang University Scholarship-Third Prize**
+- <i class="fas fa-award"></i> **Academic Excellence Award**
 
 ## Hobbies
 
