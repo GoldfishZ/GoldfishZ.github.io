@@ -36,7 +36,7 @@ title: About Me
 
 <i class="fas fa-graduation-cap"></i> **GPA**: 3.86/4(86.2/100)
 
-<i class="fas fa-language"></i> **ILTES**: 7.0(8.0/7.5/6.5/6.5)
+<i class="fas fa-language"></i> **IELTS**: 7.0(8.0/7.5/6.5/6.5)
 
 </div>
 <div style="width: 50%; float: right;">
