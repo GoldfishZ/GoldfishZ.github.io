@@ -164,7 +164,34 @@ This project is mainly divided into five modules: the Buffer Pool Replacer is re
 
 ## Publications
 
-**Still in progress**
+<div style="width: 50%; float: left; padding: 10px; margin-top: 35px;">
+<strong style="font-size: 2em;">Team-Scouter: Simulative Visual Analytics of Soccer Player Scouting</strong>
+<br>
+Anqi Cao , Xiao Xie , <strong>Runjin Zhang</strong> , Yuxin Tian , Mu Fan , Hui Zhang , Yingcai Wu
+
+March 31,2024
+
+</div>
+<div style="width: 50%; float: right; padding: 10px;">
+  <img src="/images/publication.png" alt="pic" style="width: 100%;">
+</div>
+<div style="clear: both;"></div>
+
+<div style="width: 15%; float: left; padding: 10px; margin-right: 20px; text-align: left;">
+</div>
+
+<div style="width: 15%; float: left; padding: 10px; margin-right: 20px; text-align: left;">
+<p><strong>Type </strong></p>
+<p><strong>Publication</strong></p>
+<p><strong>Date</strong></p>
+</div>
+
+<div style="width: 65%; float: left; padding: 10px; text-align: left;">
+<p>Journal Article</p>
+<p>IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)</p>
+<p>March 2024</p>
+</div>
+<div style="clear: both;"></div>
 
 ## Awards
 
